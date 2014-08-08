@@ -5,3 +5,4 @@ chmod +x .git/hooks/pre-push.sh
 echo 'pre-push hook enabled!'
 
 df
+2
